@@ -1,4 +1,5 @@
 from mygo import gotypes
+import numpy as np
 
 COLS = 'ABCDEFGHJKLMNOPQRST'
 
